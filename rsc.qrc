@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/player">
+        <file>player.png</file>
+        <file>playerLife1_blue.png</file>
+    </qresource>
+    <qresource prefix="/enemy">
+        <file>enemyRed1.png</file>
+        <file>laserRed03.png</file>
+        <file>laserRed13.png</file>
+        <file>enemyRed2.png</file>
+    </qresource>
+    <qresource prefix="/env">
+        <file>background.png</file>
+        <file>fire00.png</file>
+        <file>laserBlue01.png</file>
+        <file>background.jpg</file>
+        <file>gameover.jpg</file>
+        <file>gameover.png</file>
+        <file>gameoverred.png</file>
+    </qresource>
+    <qresource prefix="/explosions">
+        <file>explosion00.png</file>
+        <file>explosion01.png</file>
+        <file>explosion02.png</file>
+        <file>0308c489ef2156ecb78dd6ba02b0a9c2_-explosion-gif-image-clipart-bomb-exploding-gif-transparent_450-274.gif</file>
+    </qresource>
+</RCC>
